@@ -17,28 +17,28 @@ msgstr ""
 
 #: controller.py:85
 msgid "This version is up to date."
-msgstr ""
+msgstr "Cette version est à jour."
 
 #: controller.py:508 controller.py:516
 msgid "Specify your Twitch Settings to use this feature"
-msgstr ""
+msgstr "Spécifiez vos paramètres Twitch pour utiliser cette fonctionnalité"
 
 #: controller.py:511
 msgid ""
 "Automatically update the title of your twitch channel in the background."
-msgstr ""
+msgstr "Mettre à jour automatiquement le titre de votre canal de twitch en arrière-plan."
 
 #: controller.py:522 controller.py:529
 msgid "Specify your Nightbot Settings to use this feature"
-msgstr ""
+msgstr "Spécifiez vos paramètres Nightbot pour utiliser cette fonctionnalité"
 
 #: controller.py:523
 msgid "Automatically update the commands of your nightbot in the background."
-msgstr ""
+msgstr "Mettre à jour automatiquement les commandes de votre nightbot en arrière-plan."
 
 #: controller.py:747
 msgid "Warning: Map '{}' not found!"
-msgstr ""
+msgstr "Attention: Map '{}' introuvable!"
 
 #: controller.py:800
 msgid "{} {} Browser Source(s) connected."
